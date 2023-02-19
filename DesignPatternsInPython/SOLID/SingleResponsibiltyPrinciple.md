@@ -1,3 +1,5 @@
+Class should have single reason to change and that change should be related to its primary responsibilty.
+
 ```
 class Journal:
     def __init__(self):
