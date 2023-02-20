@@ -1,4 +1,4 @@
-# MachineCodingRound
+# SystemDesign
 
 Collection of Design Patterns, Low, High Level Design and Machine Coding Round Questions asked in Major Tech Company. 
 
